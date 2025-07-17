@@ -1,0 +1,2 @@
+2025-07-17 08:06:08,748 - INFO - Starting Anime Data Pipeline
+2025-07-17 08:06:08,748 - ERROR - Error in Anime Data Pipeline: bad operand type for unary +: 'str'

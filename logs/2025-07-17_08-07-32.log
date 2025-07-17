@@ -1,0 +1,8 @@
+2025-07-17 08:07:32,325 - INFO - Starting Anime Data Pipeline
+2025-07-17 08:07:32,356 - INFO - Data loaded and processed successfully. Processed file saved at data/anime_updated.csv
+2025-07-17 08:08:19,469 - INFO - Use pytorch device_name: cpu
+2025-07-17 08:08:19,469 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-17 08:08:26,320 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-07-17 08:08:35,972 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-17 08:08:41,886 - INFO - Vectorstore built and saved successfully
+2025-07-17 08:08:41,886 - INFO - Pipeline completed successfully

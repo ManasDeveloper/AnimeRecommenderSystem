@@ -1,0 +1,27 @@
+2025-07-17 08:33:50,856 - INFO - Initializing Anime Recommendation Pipeline
+2025-07-17 08:33:56,220 - INFO - Use pytorch device_name: cpu
+2025-07-17 08:33:56,220 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-17 08:34:00,939 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-17 08:34:01,317 - INFO - Anime Recommendation Pipeline initialized successfully
+2025-07-17 08:35:22,331 - INFO - Initializing Anime Recommendation Pipeline
+2025-07-17 08:35:22,331 - INFO - Use pytorch device_name: cpu
+2025-07-17 08:35:22,331 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-17 08:35:25,634 - INFO - Anime Recommendation Pipeline initialized successfully
+2025-07-17 08:35:25,649 - INFO - Recieved a query : recommend me an action anime
+2025-07-17 08:35:26,610 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 08:35:26,622 - INFO - Recommendation generated successfully
+2025-07-17 08:43:45,068 - INFO - Recieved a query : fetch me some anime with a sci-fi story
+2025-07-17 08:43:45,984 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 08:43:45,984 - INFO - Recommendation generated successfully
+2025-07-17 08:46:36,427 - INFO - Recieved a query : Suggest me anime similar to narutio
+2025-07-17 08:46:38,385 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 08:46:38,385 - INFO - Recommendation generated successfully
+2025-07-17 08:46:50,663 - INFO - Recieved a query : HU
+2025-07-17 08:46:51,451 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 08:46:51,451 - INFO - Recommendation generated successfully
+2025-07-17 08:46:54,989 - INFO - Recieved a query : HI
+2025-07-17 08:46:55,235 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 08:46:55,251 - INFO - Recommendation generated successfully
+2025-07-17 08:47:26,326 - INFO - Recieved a query : Tell me something about Naruto
+2025-07-17 08:47:27,085 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 08:47:27,085 - INFO - Recommendation generated successfully

@@ -1,0 +1,5 @@
+2025-07-17 08:31:58,361 - INFO - Initializing Anime Recommendation Pipeline
+2025-07-17 08:32:04,734 - INFO - Use pytorch device_name: cpu
+2025-07-17 08:32:04,734 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-17 08:32:09,409 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-17 08:32:11,823 - INFO - Anime Recommendation Pipeline initialized successfully

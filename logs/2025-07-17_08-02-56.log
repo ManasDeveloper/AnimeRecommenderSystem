@@ -1,0 +1,2 @@
+2025-07-17 08:02:56,859 - INFO - Starting Anime Data Pipeline
+2025-07-17 08:02:56,859 - ERROR - Error in Anime Data Pipeline: read_csv() got an unexpected keyword argument 'error_bad_lines'

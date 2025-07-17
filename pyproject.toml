@@ -1,0 +1,18 @@
+[project]
+name = "ai-anime-recommender"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "chromadb>=1.0.15",
+    "langchain>=0.3.26",
+    "langchain-community>=0.3.27",
+    "langchain-groq>=0.3.6",
+    "langchain-huggingface>=0.3.0",
+    "pandas>=2.3.1",
+    "python-dotenv>=1.1.1",
+    "sentence-transformers>=5.0.0",
+    "setuptools>=80.9.0",
+    "streamlit>=1.46.1",
+]

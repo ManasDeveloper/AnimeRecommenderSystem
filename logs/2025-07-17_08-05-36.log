@@ -1,0 +1,2 @@
+2025-07-17 08:05:36,139 - INFO - Starting Anime Data Pipeline
+2025-07-17 08:05:36,139 - ERROR - Error in Anime Data Pipeline: Missing columns in the dataset: {'synopsis'}
